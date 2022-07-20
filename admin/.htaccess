@@ -1,0 +1,11 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.php [NC,L]
+RewriteRule ^Careers$ careers.php
+RewriteRule ^Contact$ contact.php
+RewriteRule ^Patners$ Patners.php
+RewriteRule ^Dashboard$ dashboard.php
+RewriteRule ^Frenchise$ Frenchise.php
+RewriteRule ^PickUP$ Pickup.php
+RewriteRule ^Seller$ Seller.php

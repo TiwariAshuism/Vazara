@@ -1,9 +1,12 @@
+<<<<<<< HEAD
+=======
 /**
 * Template Name: FlexStart - v1.0.0
 * Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+>>>>>>> 7ae0ca251f5f5f40c09c2690fd7e52f9f681a827
 (function() {
   "use strict";
 
